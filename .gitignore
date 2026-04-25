@@ -1,0 +1,23 @@
+# Environment variables
+.env
+
+# Logs
+log.txt
+
+# Node modules
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# NPM debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
